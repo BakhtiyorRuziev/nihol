@@ -8,5 +8,8 @@
       "name": "Bakhtiyor Ruziev",
       "email": "rbakhtiyor@gmail.com"
     }
-  ]
+  ],
+  "autoload": {
+    "psr-4": {"Nihol\\": "src/"}
+  }
 }
