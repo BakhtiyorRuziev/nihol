@@ -1,0 +1,12 @@
+{
+  "name": "nihol/framework",
+  "description": "Micro-framework",
+  "minimum-stability": "dev",
+  "license": "GPLv2",
+  "authors": [
+    {
+      "name": "Bakhtiyor Ruziev",
+      "email": "rbakhtiyor@gmail.com"
+    }
+  ]
+}
